@@ -1,10 +1,10 @@
 URL Shortener - Full-Stack MERN Application
 A full-stack URL shortening web application built with the MERN stack (MongoDB, Express.js, React, Node.js). This service allows users to register, log in, and create shortened, easy-to-share links from long URLs.
 
-🚀 Live Demo
-Front-End (Vercel): https://your-frontend-app-name.vercel.app
+🚀 Live 
+Front-End (Vercel): https://url-shortner-ten-pink.vercel.app/
 
-Back-End API (Render): https://your-api-name.onrender.com
+Back-End API (Render): https://url-shortener-api-xswr.onrender.com
 
 ✨ Features
 User Authentication: Secure user registration and login system using JSON Web Tokens (JWT).
